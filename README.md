@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thalal Hassan</h1>
-<h3 align="center">Senior Full Stack Developer | Problem Solver | Emerging Tech Enthusiast</h3>
+<h3 align="center">Senior Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/thalalhassan">
