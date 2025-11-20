@@ -17,9 +17,9 @@
 
 ### 👨‍💻 About Me
 
-🚀 Emerging Champion | Standout Performer | Proven Tech Lead  
+🚀 Senior Software Engineer | NodeJs | Golang
 
-🌟 Full Stack Developer with **5+ years of experience** building scalable, reliable, and modern web solutions.  
+🌟 Senior Software Engineer with **5+ years of experience** building scalable, reliable, and modern web solutions.  
 ⚡ Passionate about architecting robust systems, learning emerging technologies, and mentoring others.  
 🤝 Equally skilled in delivering solo projects and collaborating with cross-functional teams.  
 
