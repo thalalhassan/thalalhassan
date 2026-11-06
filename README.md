@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Thalal Hassan — Senior Software Engineer" width="100%" />
+<img src="./profile-banner.svg" alt="Thalal Hassan — Senior Software Engineer" width="100%" />
 
 ### SENIOR SOFTWARE ENGINEER · BACKEND & PLATFORM ENGINEERING
 
